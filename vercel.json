@@ -1,0 +1,5 @@
+{
+    "redirects": [
+      { "source": "/", "destination": "/swap/ETHEREUM.ethereum/POLYGON.matic-network/10?from=Ethereum&to=Polygon&ref=ltuCxgcg", "permanent": false }
+    ]
+}
