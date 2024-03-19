@@ -26,7 +26,11 @@
 }
 
 .logo-scale{
-    width:80px;
+    width:70px;
+}
+
+.rvf-button-containers{
+    display: none;
 }
 
 * {
@@ -4187,6 +4191,10 @@ fieldset:disabled .btn {
 .dropup,
 .dropup-center {
     position: relative
+}
+
+.rocketx-nav-tabb{
+    display: none;
 }
 
 .dropdown-toggle {
